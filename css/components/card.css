@@ -1,0 +1,15 @@
+.card {
+  width: 200px;
+  border-radius: 4px;
+  border: 1px solid #F6F6F6;
+  box-shadow: 0 0 4px #F6F6F6;
+  text-align: center;
+}
+
+.card img {
+  width: 100px
+}
+
+.card p {
+  opacity: .5;
+}
